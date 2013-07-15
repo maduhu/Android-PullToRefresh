@@ -1,0 +1,17 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/my_animation"
+    android:oneshot="false" >
+
+    <item
+        android:drawable="@drawable/cup_fill_00159"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/cup_fill_00160"
+        android:duration="150"/>
+    <item android:drawable="@drawable/cup_fill_00161"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/cup_fill_00162"
+        android:duration="150"/>
+
+</animation-list>

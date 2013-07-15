@@ -1,0 +1,112 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/my_animation"
+    android:oneshot="false" >
+
+    <item
+        android:drawable="@drawable/cup_constant_00256"
+        android:duration="75"/>
+    <item
+        android:drawable="@drawable/cup_constant_00257"
+        android:duration="75"/>
+    <item android:drawable="@drawable/cup_constant_00258"
+        android:duration="75"/>
+    <item
+        android:drawable="@drawable/cup_constant_00259"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00260"
+        android:duration="75"/>
+    <item
+        android:drawable="@drawable/cup_constant_00261"
+        android:duration="75"/>
+    <item android:drawable="@drawable/cup_constant_00262"
+        android:duration="75"/>
+    <item
+        android:drawable="@drawable/cup_constant_00263"
+        android:duration="75"/>
+    <item
+        android:drawable="@drawable/cup_constant_00264"
+        android:duration="75"/>
+    <item
+        android:drawable="@drawable/cup_constant_00265"
+        android:duration="75"/>
+    <item
+        android:drawable="@drawable/cup_constant_00266"
+        android:duration="75"/>
+    <item
+        android:drawable="@drawable/cup_constant_00267"
+        android:duration="75"/>
+    <item
+        android:drawable="@drawable/cup_constant_00268"
+        android:duration="75"/>
+    <item
+        android:drawable="@drawable/cup_constant_00269"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00270"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00271"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00272"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00273"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00274"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00275"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00276"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00277"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00278"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00279"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00280"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00281"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00282"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00283"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00284"
+        android:duration="75"/>
+    
+    <item
+        android:drawable="@drawable/cup_constant_00285"
+        android:duration="75"/>
+    
+
+</animation-list>
